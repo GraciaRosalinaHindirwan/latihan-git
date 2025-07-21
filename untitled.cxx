@@ -1,9 +1,9 @@
 
-
 #include <iostream>
 using namespace std;
 
 void jumlah() {
+	cout << "Masukkan angka: ";
 	cout << "Jumlahnya adalah...." << endl;
 }
 
