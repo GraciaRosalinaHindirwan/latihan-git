@@ -5,6 +5,7 @@ using namespace std;
 void jumlah() {
 	cout << "Masukkan angka: ";
 	cout << "Jumlahnya adalah...." << endl;
+	cout << "10";
 }
 
 
